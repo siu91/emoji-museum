@@ -1,3 +1,8 @@
+ # *The Emoji Museum *
+
+offering a emoji cheat sheet
+ -------------------------
+
 | Emoji                              | Code                              |
 | -------------                      | -------------                     |
 |People                              |`People                           `|
