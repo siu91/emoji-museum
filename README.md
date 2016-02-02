@@ -1,4 +1,4 @@
- # *The Emoji Museum *
+ # The Emoji Museum
 
 offering a emoji cheat sheet
  -------------------------
